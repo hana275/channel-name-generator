@@ -1,0 +1,6 @@
+print("welcom to the channel name generator")
+name=input("what is your name?\n")
+print("nice to meet you "+ name)
+channel=input("what is your channel about?\n")
+print("that is a very nice idea")
+print("what about "+ channel +   " with " + name)
